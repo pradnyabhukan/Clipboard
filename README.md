@@ -31,11 +31,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Screenshot
-<video controls width="600">
-  <source src="../Clipboard/src/images/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[![Watch the video]](../Clipboard/src/images/ScreenRecording.mp4)
 
 My Process
 
