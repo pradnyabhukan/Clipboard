@@ -10,7 +10,6 @@ Table of Contents
 
     2. Screenshot
 
-    3. Links
 
 2. My Process
 
@@ -22,7 +21,6 @@ Table of Contents
 
     4. Useful Resources
 
-3. Author
 
 
 
@@ -33,13 +31,10 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Screenshot
-
-
-Links
-
-- Solution URL: Add solution URL here
-
-- Live Site URL: Add live site URL here
+<video controls width="600">
+  <source src="../Clipboard/src/images/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 My Process
@@ -64,7 +59,5 @@ I focused on optimizing performance and improving the developer experience.
 Useful Resources
 
 - Solid.js Documentation - Helped me understand reactive state management.
-
 - Vinxi - Useful for meta-framework capabilities.
 
-Author
