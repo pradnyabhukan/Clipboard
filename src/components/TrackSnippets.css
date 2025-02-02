@@ -1,0 +1,61 @@
+.track-snippets {
+    /* background-color: aqua; */
+    display: flex;
+    padding: 5%;
+}
+
+.computer {
+    position: relative;
+    width: 752px;
+    height: 572px; 
+    left: -100px;
+}
+
+.content {
+    padding-top: 5%;
+    text-align: left;
+    width: 70%;
+}
+
+.title {
+    font-weight: 600;
+    font-size: 24px;
+    color: #4C545C;
+}
+
+.text {
+    font-weight: 400;
+    font-size: 16px;
+    color: #9EABB2;
+}
+
+
+
+@media (max-width: 480px) {
+    .track-snippets {
+        /* background-color: aqua; */
+        display: flex;
+        flex-direction: column;
+        padding: 5%;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .computer {
+        position: relative;
+        left: 0px;
+        width: 312px;
+        height: 238px; 
+    }
+
+    .content {
+        text-align: center;
+    }
+
+    .parent {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
