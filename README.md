@@ -5,22 +5,14 @@ This is a solution to the Clipboard landing page challenge on Frontend Mentor. F
 Table of Contents
 
 1. Overview
-
     1. The Challenge
-
     2. Screenshot
 
-
 2. My Process
-
     1. Built With
-
     2. What I Learned
-
     3. Continued Development
-
     4. Useful Resources
-
 
 
 
@@ -30,8 +22,6 @@ The Challenge
 Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
-- Screenshot
-[![Watch the video]](../Clipboard/src/images/ScreenRecording.mp4)
 
 My Process
 
